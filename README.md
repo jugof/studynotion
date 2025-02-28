@@ -1,7 +1,7 @@
 # StudyNotion Edtech Project
 
 
-# Step-by-Step Guide to Host React App on GitHub Pages
+# Step-by-Step Guide to Host StudyNotion App on GitHub Pages
 
 ## Prerequisites
 - A GitHub account
